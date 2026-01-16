@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Santosh1206v
+- 👋 Hi, I’m @VEER SHARMA
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
@@ -7,6 +7,6 @@
 - ⚡ Fun fact: ...
 
 <!---
-Santosh1206v/Santosh1206v is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+VEER SHARMA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
